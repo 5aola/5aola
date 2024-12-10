@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🎵 Universitat Pompeu Fabra, Barcelona - Music Computing
-- ⚙️ KU Leuven - Mechanical Acoustics
-- 🖥️ Budapest University of Technology and Economics - Electrical Engineering
+- 🎶 Universitat Pompeu Fabra, Barcelona - _Music Computing_
+- ⚙️ KU Leuven - _Mechanical Acoustics_
+- 🖥️ Budapest University of Technology and Economics - _Electrical Engineering_
 
 
 <!--
