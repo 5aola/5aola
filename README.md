@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🎵 Universitat Pompeu Fabra, Barcelona - Music Computing
+- ⚙️ KU Leuven - Mechanical Acoustics
+- 🖥️ Budapest University of Technology and Economics - Electrical Engineering
+
+
 <!--
 **5aola/5aola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
